@@ -1,0 +1,22 @@
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.deps.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.runtimeconfig.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.runtimeconfig.dev.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.pdb
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.csprojAssemblyReference.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.AssemblyInfoInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.AssemblyInfo.cs
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.pdb
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.deps.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.runtimeconfig.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.runtimeconfig.dev.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.dll
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\bin\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.pdb
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.csprojAssemblyReference.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.csproj.CoreCompileInputs.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.AssemblyInfoInputs.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.AssemblyInfo.cs
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.dll
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.CoisaSensorDeCoracao\obj\Debug\netcoreapp2.1\IotHub.CoisaSensorDeCoracao.pdb

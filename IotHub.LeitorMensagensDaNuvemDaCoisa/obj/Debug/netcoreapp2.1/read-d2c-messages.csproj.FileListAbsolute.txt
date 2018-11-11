@@ -1,0 +1,11 @@
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.deps.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.dev.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csprojAssemblyReference.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfoInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfo.cs
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.pdb

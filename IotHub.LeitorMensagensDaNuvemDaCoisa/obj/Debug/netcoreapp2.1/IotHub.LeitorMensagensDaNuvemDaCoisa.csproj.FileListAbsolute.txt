@@ -1,0 +1,22 @@
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.deps.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.runtimeconfig.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.runtimeconfig.dev.json
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.pdb
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.csprojAssemblyReference.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.AssemblyInfoInputs.cache
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.AssemblyInfo.cs
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.dll
+C:\Users\otavi\Desktop\Trabalho final arquitetura de nuvem\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.pdb
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.deps.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.runtimeconfig.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.runtimeconfig.dev.json
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.dll
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\bin\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.pdb
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.csprojAssemblyReference.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.csproj.CoreCompileInputs.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.AssemblyInfoInputs.cache
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.AssemblyInfo.cs
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.dll
+G:\GIT\GitHub\TrabalhoFinalArquiteturaNuvem\IotHub.LeitorMensagensDaNuvemDaCoisa\obj\Debug\netcoreapp2.1\IotHub.LeitorMensagensDaNuvemDaCoisa.pdb
